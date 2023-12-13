@@ -1,4 +1,4 @@
-# PromptRestorer
+# NeurIPS23-PromptRestorer: A Prompting Image Restoration Method with Degradation Perception
 
 NeurIPS23-PromptRestorer: A Prompting Image Restoration Method with Degradation Perception
 
