@@ -1,0 +1,2 @@
+python setup.py develop
+CUDA_VISIBLE_DEVICES=1 python inference_femasr_psnr_ssim_ychannel.py
